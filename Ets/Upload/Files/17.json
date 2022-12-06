@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "Question": "What is the capital of India?",
+    "Score": 1,
+    "Option1": "Delhi",
+    "Option2": "Mumbai",
+    "Option3": "Kolkata",
+    "Option4": "Chennai",
+    "Answer": 1,
+    "ImageUrl": "India.jpg"
+  },
+  {
+    "Id": 2,
+    "Question": "What is the capital of Austria?",
+    "Score": 1,
+    "Option1": "Vienna",
+    "Option2": "Salzburg",
+    "Option3": "Graz",
+    "Option4": "Innsbruck",
+    "Answer": 1,
+    "ImageUrl": "Austria.jpg"
+  }
+]
